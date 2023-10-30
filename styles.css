@@ -4,7 +4,9 @@ strong{color:red}
 
 
 h1{   
-text-align:cent;
+text-align:center;
+font-size: 50px;
+color: black;
 }
 
 p{
