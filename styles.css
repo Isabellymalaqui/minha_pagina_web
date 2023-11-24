@@ -21,5 +21,11 @@ color: floralwhite;
     display: block; 
     margin:0% auto;
 } 
-#titulo{
+#titulo2 {
+    text-align:center;
+    font: 30px;
+    color: red
+
+    ;
+
 }
