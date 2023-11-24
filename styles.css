@@ -23,9 +23,19 @@ color: floralwhite;
 } 
 #titulo2 {
     text-align:left;
-    font: 40px;
-    color: red
+    font-size: 40px;
+    color: red;}
+    
 
-    ;
+    .ul{
+        display: inline-block;
+        vertical-align:top;
+        width: 20%;
+        margin-right:15%;
+        font-size: 20px;
+    }
 
-}
+
+    #img2{
+        width:50%;
+    }
