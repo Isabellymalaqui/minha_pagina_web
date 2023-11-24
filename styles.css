@@ -39,3 +39,9 @@ color: floralwhite;
     #img2{
         width:50%;
     }
+
+    header{
+        text-align: center;
+        font-size:50px;
+        color: black;
+    }
